@@ -1,5 +1,5 @@
-## Hi there I'm Ebrahim 👋
-## Web Developer | Font End Developer - React JavaScript
+## Hi there I'm Mahadi Hasan Ebrahim 👋
+## Web Developer | Fontend Developer | MERN Stack Developer |
 
 #### 💻 Expertise: JavaScript, React js, React Router, REST API, Express js, ES6, MongoDB, React Bootstrap, Bootstrap5, CSS3, HTML5.
 #### 💻 Familiar: Node js, JSON, SASS, Material UI, PHP, MySQL, WordPress, WordPress Theme Development.
